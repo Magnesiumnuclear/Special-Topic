@@ -4,7 +4,6 @@
 專為數位邏輯設計課程打造，支援 Quine-McCluskey 演算法，並提供流暢的圖形化操作介面。
 
 ![App Screenshot](screenshot.png)
-*(請記得把您的程式截圖命名為 screenshot.png 並放在專案資料夾，或直接在 GitHub 網頁上編輯 README 時把圖片拖進去)*
 
 ## ✨ 特色 (Features)
 
